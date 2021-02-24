@@ -1,2 +1,2 @@
 # Unity-ShootingGame
-CS Language Unity 2D Simple Shooting Game
+CS Language Unity 2D Simple Flight Shooting Game
